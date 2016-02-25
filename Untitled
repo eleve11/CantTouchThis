@@ -1,7 +1,0 @@
-/* AUTOMATICALLY GENERATED ON Wed Oct 14 22:49:28 BST 2015*/
-/* DO NOT EDIT */
-
-grant codeBase "file:/Users/andrea/IdeaProjects/CantTouchThis/" {
-  permission java.io.FilePermission "<<ALL FILES>>", "read";
-};
-
